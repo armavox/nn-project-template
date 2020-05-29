@@ -11,7 +11,7 @@
 
 One short sentence about this repo and research...Maybe link to the paper.
 
-## Result
+## Results
 
 Pics and plots with results...
 ![Minion](https://octodex.github.com/images/minion.png)
