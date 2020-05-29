@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+
+.*
+!.pre-commit-config.yaml
+!.gitignore
+!.flake8
