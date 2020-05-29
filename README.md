@@ -1,10 +1,17 @@
 # Awesome repo
 
+![PyTorch](https://img.shields.io/badge/PyTorch-1.5.0-red)
+![Lightning](https://img.shields.io/badge/PyTorch%20Lightning-0.7.3-blueviolet)
+![Hex.pm](https://img.shields.io/hexpm/l/plug)
+![GitHub forks](https://img.shields.io/github/forks/armavox/nn-project-template?label=Fork&style=social)
+
+
+
 ## About
 
 One short sentence about this repo and research...Maybe link to the paper.
 
-## Result
+## Results
 
 Pics and plots with results...
 ![Minion](https://octodex.github.com/images/minion.png)
