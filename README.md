@@ -1,11 +1,14 @@
 # Awesome repo
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1.5.0-red)
-![Lightning](https://img.shields.io/badge/PyTorch%20Lightning-0.7.3-blueviolet)
-![Hex.pm](https://img.shields.io/hexpm/l/plug)
-![GitHub forks](https://img.shields.io/github/forks/armavox/nn-project-template?label=Fork&style=social)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.5.0-red.svg)][pytorch]
+[![PyTorch-Lightning](https://img.shields.io/badge/PyTorch%20Lightning-0.7.3-blueviolet.svg)][pytorch-lightning]
+[![Hex.pm](https://img.shields.io/hexpm/l/plug)][apache]
+[![](https://img.shields.io/github/forks/armavox/nn-project-template?label=Fork&style=social)][fork]
 
-
+[pytorch]: https://github.com/pytorch/pytorch
+[pytorch-lightning]: https://github.com/PyTorchLightning/pytorch-lightning
+[apache]: http://www.apache.org/licenses/LICENSE-2.0
+[fork]: https://github.com/armavox/nn-project-template/fork
 
 ## About
 
