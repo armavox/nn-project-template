@@ -1,3 +1,20 @@
+# How to use
+
+```bash
+# Duplicate this repo
+$ git clone --bare https://github.com/armavox/nn-project-template.git
+
+# Create new github.com repo with custom name 
+# For example: https://github.com/example-user/new-repository.git
+
+$ cd nn-project-template.git
+$ git push --mirror https://github.com/exampleuser/new-repository.git
+
+$ cd ..
+$ rm -rf nn-project-template.git
+
+```
+
 # Awesome repo
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.5.0-red.svg)][pytorch]
