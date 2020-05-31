@@ -1,19 +1,9 @@
 # How to use
 
-```bash
-# Duplicate this repo
-$ git clone --bare https://github.com/armavox/nn-project-template.git
+Import repo with https://github.com/new/import
 
-# Create new github.com repo with custom name 
-# For example: https://github.com/example-user/new-repository.git
+[![Screenshot-2020-05-31-at-19-50-43.png](https://i.postimg.cc/DZrTbRgH/Screenshot-2020-05-31-at-19-50-43.png)](https://postimg.cc/N9jV3JZk)
 
-$ cd nn-project-template.git
-$ git push --mirror https://github.com/exampleuser/new-repository.git
-
-$ cd ..
-$ rm -rf nn-project-template.git
-
-```
 
 # Awesome repo
 
