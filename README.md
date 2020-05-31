@@ -71,11 +71,17 @@ $ python ./src/train.py --config=./configs/train.yaml
 
 ### Inference
 
+#### Run script
+
 ```bash
 # configure inference in ./configs/infer.yaml
 # run:
 $ python ./src/infer.py --config=./configs/infer.yaml
 ```
+
+#### How to distribute the model
+
+_TODO_: https://pytorch.org/docs/stable/hub.html
 
 ### Contributing
 
