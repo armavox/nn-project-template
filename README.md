@@ -1,8 +1,9 @@
 # How to use
 
-Import repo with https://github.com/new/import
+* Import repo with https://github.com/new/import
 
-[![Screenshot-2020-05-31-at-19-50-43.png](https://i.postimg.cc/DZrTbRgH/Screenshot-2020-05-31-at-19-50-43.png)](https://postimg.cc/N9jV3JZk)
+
+<img src="https://i.postimg.cc/DZrTbRgH/Screenshot-2020-05-31-at-19-50-43.png" alt="drawing" width="320"/>
 
 
 # Awesome repo
